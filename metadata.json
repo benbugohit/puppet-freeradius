@@ -1,6 +1,6 @@
 {
   "name": "jgazeley-freeradius",
-  "version": "3.9.2",
+  "version": "3.9.3",
   "author": "jgazeley",
   "summary": "Install and configure FreeRADIUS",
   "license": "Apache-2.0",
@@ -22,7 +22,7 @@
     },
     {
       "name": "puppet/logrotate",
-      "version_requirement": ">=1.4.0 <4.0.0"
+      "version_requirement": ">=1.4.0 <6.0.0"
     },
     {
       "name": "puppetlabs/concat",
